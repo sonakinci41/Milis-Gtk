@@ -1,4 +1,4 @@
-# milis-gtk-theme
+# Milis-Gtk
 
 Temel amaç bilgisayar kullanımı sırasında gözü yormayacak bir tema oluşturmaktır. Bu sebeple kod editörlerinde sıkça kullanılan
 renkler tercih edilmiştir. Monokai isimli renk teması baz alınarak tasarımlar yapılmıştır.
