@@ -88,7 +88,7 @@ window.label.text.justify: center
 ### MENU
 menu.border.width: 0
 menu.separator.width: 1
-menu.separator.padding.width: 10
+menu.separator.padding.width: 10 
 menu.separator.padding.height: 2
 
 menu.overlap.x: 0
@@ -97,8 +97,9 @@ menu.overlap.y: 0
 menu.border.color: #aeb0b6
 menu.separator.color: #a8adb5
 
-menu.title.text.color: #cfd0c2
-menu.items.text.color: #2d3036
+#menu.title.text.color: #cfd0c2
+menu.title.text.color: #000000
+menu.items.text.color: #cfd0c2
 menu.items.disabled.text.color: #76797F
 menu.items.active.text.color: #48483e
 menu.items.active.disabled.text.color: #aeb0b6
