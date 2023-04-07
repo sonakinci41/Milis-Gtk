@@ -44,7 +44,7 @@ window.active.button.hover.image.color: #cfd0c2
 window.active.button.toggled.unpressed.image.color: #cfd0c2
 window.active.button.toggled.pressed.image.color: #36af90
 window.active.button.toggled.hover.image.color: #cfd0c2
-window.inactive.button.unpressed.image.color: #1F2328
+window.inactive.button.unpressed.image.color: #7F8388
 window.inactive.button.pressed.image.color: #36af90
 window.inactive.button.disabled.image.color: #2d3036
 window.inactive.button.hover.image.color: #cfd0c2
